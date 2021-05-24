@@ -1,2 +1,3 @@
 Hey this is new Hello world.
 switched to mybranch.
+it is merged to master.
